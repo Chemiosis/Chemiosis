@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chemiosis
 - 👀 I’m interested in computer science and engineering.
-- 🌱 I’m currently a web programmer 
+- 🌱 I’m currently a Full Stack Developer 
 - 💞️ I’m looking to collaborate on building websites and forming teams 
 - 📫 How to reach me mail me on chemiosisdaniel@gmail.com to get more information
 
